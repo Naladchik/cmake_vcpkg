@@ -1,0 +1,7 @@
+boost_1_89_0/
+include/boost-1_89/
+lib/
+project/.vs/
+project/build/
+project/out/
+share/
